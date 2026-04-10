@@ -1,13 +1,12 @@
-# Project Management Tool
+# 📋 Project Management Tool
 
-A full-stack project management tool built with:
-- **Backend:** Node.js, Express.js, TypeScript, MongoDB, JWT, bcrypt
-- **Frontend:** React.js, TypeScript, Vite, Tailwind CSS
-- **Database:** MongoDB
+A modern, full-stack project management application with beautiful UI and robust backend. Organize your projects and tasks efficiently with an intuitive dashboard.
 
-## Features
+## 🚀 Quick Start
 
-### Authentication
+### Prerequisites
+- Node.js (v16+)
+- MongoDB (running locally)
 - Register with name, email, and password
 - Login with email and password
 - JWT-based protected routes
