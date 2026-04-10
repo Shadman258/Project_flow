@@ -141,30 +141,6 @@ This will insert:
 - **React Hook Form + Yup** for form validation
 - **Tailwind CSS** for fast UI styling
 
----
-
-## Known Limitations
-
-- No role-based authorization beyond user ownership
-- No file attachments or comments on tasks
-- No refresh token flow
-- Unit tests structure can be added further if required
-
----
-
-## Suggested Git Commits
-
-```bash
-git init
-git add .
-git commit -m "Initial full-stack project management tool setup"
-git commit -m "Add JWT auth, project CRUD, and task CRUD"
-git commit -m "Add React frontend with dashboard and project details"
-git commit -m "Add database seed script and README"
-```
-
----
-
 ## Submission Checklist
 
 - [x] JWT authentication
